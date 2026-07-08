@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/barsha20061001/leetcode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/barsha20061001/leetcode/tree/master/0190-reverse-bits) |
 ## Simulation
 |  |
 | ------- |
