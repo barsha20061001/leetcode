@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/barsha20061001/leetcode/tree/master/0010-regular-expression-matching) |
+| [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -27,8 +28,17 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
