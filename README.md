@@ -26,6 +26,7 @@
 | [0010-regular-expression-matching](https://github.com/barsha20061001/leetcode/tree/master/0010-regular-expression-matching) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Recursion
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Combinatorics
 |  |
 | ------- |
@@ -57,6 +59,7 @@
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Simulation
 |  |
 | ------- |
