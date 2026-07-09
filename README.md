@@ -62,6 +62,7 @@
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/barsha20061001/leetcode/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
