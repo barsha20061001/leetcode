@@ -8,6 +8,7 @@
 | [0136-single-number](https://github.com/barsha20061001/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -68,10 +69,12 @@
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/barsha20061001/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
+| [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,4 +104,12 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
