@@ -16,6 +16,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/barsha20061001/leetcode/tree/master/1763-longest-nice-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +101,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/barsha20061001/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/barsha20061001/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
@@ -130,6 +133,7 @@
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +161,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 ## Sliding Window
 |  |
 | ------- |
