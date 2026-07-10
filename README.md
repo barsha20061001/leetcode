@@ -95,6 +95,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/barsha20061001/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Simulation
 |  |
 | ------- |
