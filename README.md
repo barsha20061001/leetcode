@@ -23,6 +23,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -125,6 +127,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
