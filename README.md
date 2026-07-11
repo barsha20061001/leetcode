@@ -20,6 +20,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/barsha20061001/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Divide and Conquer
 |  |
@@ -110,6 +111,7 @@
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/barsha20061001/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
