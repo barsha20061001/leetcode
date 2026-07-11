@@ -23,6 +23,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -120,6 +121,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/barsha20061001/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+## Brainteaser
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
