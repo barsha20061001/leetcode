@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/barsha20061001/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/barsha20061001/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
@@ -88,6 +89,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/barsha20061001/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/barsha20061001/leetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/barsha20061001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/0191-number-of-1-bits) |
@@ -181,6 +183,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/barsha20061001/leetcode/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
