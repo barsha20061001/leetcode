@@ -16,6 +16,7 @@
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/barsha20061001/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -52,6 +53,7 @@
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
@@ -131,6 +133,7 @@
 | [0476-number-complement](https://github.com/barsha20061001/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/barsha20061001/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -221,6 +224,7 @@
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
@@ -282,4 +286,5 @@
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
