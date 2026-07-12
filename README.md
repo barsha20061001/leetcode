@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
@@ -50,6 +51,7 @@
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
+| [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
@@ -125,6 +127,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0461-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0461-hamming-distance) |
+| [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0476-number-complement](https://github.com/barsha20061001/leetcode/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -216,6 +219,7 @@
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/barsha20061001/leetcode/tree/master/0090-subsets-ii) |
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
+| [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
@@ -274,4 +278,8 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
