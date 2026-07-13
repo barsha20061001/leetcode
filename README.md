@@ -237,10 +237,12 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -361,6 +363,7 @@
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -388,6 +391,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/barsha20061001/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/barsha20061001/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
