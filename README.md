@@ -34,6 +34,7 @@
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/barsha20061001/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/barsha20061001/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -188,6 +189,7 @@
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/barsha20061001/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/barsha20061001/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2595-number-of-even-and-odd-bits](https://github.com/barsha20061001/leetcode/tree/master/2595-number-of-even-and-odd-bits) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/barsha20061001/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
