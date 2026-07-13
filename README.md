@@ -296,6 +296,7 @@
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
 |  |
@@ -393,6 +394,7 @@
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/barsha20061001/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
