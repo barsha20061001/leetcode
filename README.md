@@ -72,6 +72,7 @@
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0784-letter-case-permutation](https://github.com/barsha20061001/leetcode/tree/master/0784-letter-case-permutation) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/barsha20061001/leetcode/tree/master/1763-longest-nice-substring) |
@@ -157,6 +158,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [1009-complement-of-base-10-integer](https://github.com/barsha20061001/leetcode/tree/master/1009-complement-of-base-10-integer) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/barsha20061001/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -218,6 +220,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1763-longest-nice-substring](https://github.com/barsha20061001/leetcode/tree/master/1763-longest-nice-substring) |
@@ -271,6 +274,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1763-longest-nice-substring](https://github.com/barsha20061001/leetcode/tree/master/1763-longest-nice-substring) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
