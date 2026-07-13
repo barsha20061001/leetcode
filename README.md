@@ -25,6 +25,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/barsha20061001/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/barsha20061001/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1310-xor-queries-of-a-subarray](https://github.com/barsha20061001/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/barsha20061001/leetcode/tree/master/1720-decode-xored-array) |
@@ -168,6 +169,7 @@
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/barsha20061001/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1310-xor-queries-of-a-subarray](https://github.com/barsha20061001/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/barsha20061001/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -343,5 +345,6 @@
 |  |
 | ------- |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
+| [1310-xor-queries-of-a-subarray](https://github.com/barsha20061001/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/barsha20061001/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 <!---LeetCode Topics End-->
