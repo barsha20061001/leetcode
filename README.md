@@ -17,6 +17,7 @@
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
@@ -56,6 +57,7 @@
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -142,6 +144,7 @@
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0693-binary-number-with-alternating-bits](https://github.com/barsha20061001/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
@@ -238,6 +241,7 @@
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/barsha20061001/leetcode/tree/master/0784-letter-case-permutation) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -297,12 +301,14 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
+| [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Bitmask
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Depth-First Search
 |  |
