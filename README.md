@@ -120,6 +120,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/barsha20061001/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -385,6 +386,7 @@
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/barsha20061001/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/barsha20061001/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Design
