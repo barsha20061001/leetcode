@@ -177,6 +177,7 @@
 | [1238-circular-permutation-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/barsha20061001/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/barsha20061001/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/barsha20061001/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/barsha20061001/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
