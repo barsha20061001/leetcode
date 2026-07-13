@@ -28,6 +28,7 @@
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/barsha20061001/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1310-xor-queries-of-a-subarray](https://github.com/barsha20061001/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/barsha20061001/leetcode/tree/master/1720-decode-xored-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -376,5 +377,22 @@
 ## Linked List
 |  |
 | ------- |
+| [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+## Design
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Queue
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
