@@ -21,6 +21,7 @@
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
@@ -252,6 +253,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
+| [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
@@ -390,6 +392,7 @@
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/barsha20061001/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/barsha20061001/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
