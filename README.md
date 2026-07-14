@@ -50,6 +50,7 @@
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/barsha20061001/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Divide and Conquer
@@ -227,6 +228,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/barsha20061001/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
@@ -269,6 +271,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -383,6 +386,7 @@
 |  |
 | ------- |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -402,6 +406,7 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -416,6 +421,7 @@
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -430,4 +436,8 @@
 |  |
 | ------- |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
