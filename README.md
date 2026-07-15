@@ -86,6 +86,7 @@
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0784-letter-case-permutation](https://github.com/barsha20061001/leetcode/tree/master/0784-letter-case-permutation) |
@@ -259,6 +260,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -321,6 +323,7 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/barsha20061001/leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -433,6 +436,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
