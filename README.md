@@ -20,6 +20,7 @@
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
+| [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
@@ -63,6 +64,7 @@
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/barsha20061001/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/0191-number-of-1-bits) |
+| [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/barsha20061001/leetcode/tree/master/1763-longest-nice-substring) |
@@ -257,11 +259,13 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
@@ -469,6 +473,7 @@
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/barsha20061001/leetcode/tree/master/1472-design-browser-history) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -477,6 +482,7 @@
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 ## Ordered Set
