@@ -128,6 +128,7 @@
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -415,6 +416,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
+| [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0725-split-linked-list-in-parts](https://github.com/barsha20061001/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
@@ -466,6 +468,7 @@
 | [0071-simplify-path](https://github.com/barsha20061001/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1472-design-browser-history](https://github.com/barsha20061001/leetcode/tree/master/1472-design-browser-history) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
