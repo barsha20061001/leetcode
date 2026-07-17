@@ -28,6 +28,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/barsha20061001/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -264,6 +265,7 @@
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/barsha20061001/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/barsha20061001/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/barsha20061001/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -537,6 +539,7 @@
 | [0856-score-of-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/barsha20061001/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1021-remove-outermost-parentheses) |
