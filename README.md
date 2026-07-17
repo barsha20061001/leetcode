@@ -269,6 +269,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -410,6 +411,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
@@ -490,6 +492,7 @@
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
