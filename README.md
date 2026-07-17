@@ -103,6 +103,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0784-letter-case-permutation](https://github.com/barsha20061001/leetcode/tree/master/0784-letter-case-permutation) |
+| [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/barsha20061001/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -250,6 +251,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/barsha20061001/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/barsha20061001/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/barsha20061001/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -340,6 +342,7 @@
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Matrix
@@ -498,6 +501,7 @@
 | [0590-n-ary-tree-postorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
