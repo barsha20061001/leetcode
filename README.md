@@ -268,6 +268,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -275,6 +276,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Hash Table
@@ -407,6 +409,7 @@
 |  |
 | ------- |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -487,6 +490,7 @@
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1021-remove-outermost-parentheses) |
@@ -519,5 +523,6 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
