@@ -172,6 +172,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -410,6 +411,7 @@
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Trie
@@ -598,6 +600,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Monotonic Queue
 |  |
