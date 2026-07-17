@@ -118,6 +118,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Recursion
 |  |
@@ -259,6 +260,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -515,6 +517,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
