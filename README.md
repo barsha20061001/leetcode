@@ -111,6 +111,7 @@
 | [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/barsha20061001/leetcode/tree/master/0880-decoded-string-at-index) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/barsha20061001/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -422,6 +423,7 @@
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Memoization
 |  |
@@ -539,6 +541,7 @@
 | [0856-score-of-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/barsha20061001/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
