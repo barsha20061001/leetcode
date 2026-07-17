@@ -9,6 +9,7 @@
 | [0090-subsets-ii](https://github.com/barsha20061001/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/barsha20061001/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -138,6 +139,7 @@
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
@@ -501,6 +503,7 @@
 | [0032-longest-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/barsha20061001/leetcode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
