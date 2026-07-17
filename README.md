@@ -122,6 +122,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/barsha20061001/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/barsha20061001/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/barsha20061001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/barsha20061001/leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/barsha20061001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -430,6 +431,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/barsha20061001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 ## Memoization
 |  |
@@ -559,6 +561,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/barsha20061001/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1472-design-browser-history](https://github.com/barsha20061001/leetcode/tree/master/1472-design-browser-history) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/barsha20061001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/barsha20061001/leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/barsha20061001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
