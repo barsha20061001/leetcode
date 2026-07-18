@@ -315,6 +315,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/barsha20061001/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/barsha20061001/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
@@ -327,6 +328,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/barsha20061001/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/barsha20061001/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -642,6 +644,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/barsha20061001/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0450-delete-node-in-a-bst](https://github.com/barsha20061001/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
