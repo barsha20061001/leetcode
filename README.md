@@ -55,6 +55,7 @@
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/barsha20061001/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
+| [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/barsha20061001/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
@@ -179,6 +180,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/barsha20061001/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -395,6 +397,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Counting
 |  |
 | ------- |
@@ -615,6 +618,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/barsha20061001/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
+| [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/barsha20061001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Monotonic Queue
