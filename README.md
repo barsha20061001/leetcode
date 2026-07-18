@@ -534,6 +534,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/barsha20061001/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/barsha20061001/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/barsha20061001/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/barsha20061001/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/barsha20061001/leetcode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
@@ -545,6 +546,7 @@
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/barsha20061001/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Doubly-Linked List
@@ -556,6 +558,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/barsha20061001/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/barsha20061001/leetcode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 ## Stack
