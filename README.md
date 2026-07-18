@@ -147,6 +147,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/barsha20061001/leetcode/tree/master/0010-regular-expression-matching) |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/barsha20061001/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/barsha20061001/leetcode/tree/master/0394-decode-string) |
@@ -510,6 +511,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/barsha20061001/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/barsha20061001/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
