@@ -10,6 +10,7 @@
 | [0136-single-number](https://github.com/barsha20061001/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -172,6 +173,7 @@
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
@@ -473,6 +475,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
@@ -693,6 +696,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
