@@ -185,6 +185,7 @@
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -698,6 +699,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
