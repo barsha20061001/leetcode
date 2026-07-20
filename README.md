@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/barsha20061001/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/barsha20061001/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/barsha20061001/leetcode/tree/master/0090-subsets-ii) |
@@ -453,6 +454,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/barsha20061001/leetcode/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
@@ -531,6 +533,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/barsha20061001/leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
