@@ -13,6 +13,7 @@
 | [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -441,6 +442,7 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/barsha20061001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
