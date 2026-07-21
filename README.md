@@ -40,6 +40,7 @@
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -371,6 +372,7 @@
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/barsha20061001/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
