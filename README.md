@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
+| [0334-increasing-triplet-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
@@ -539,6 +540,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/barsha20061001/leetcode/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0334-increasing-triplet-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/barsha20061001/leetcode/tree/master/0605-can-place-flowers) |
