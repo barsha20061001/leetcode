@@ -68,6 +68,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/barsha20061001/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/barsha20061001/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -339,6 +340,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/barsha20061001/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/barsha20061001/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
@@ -425,6 +427,7 @@
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/barsha20061001/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
@@ -489,6 +492,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Counting
 |  |
