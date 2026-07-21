@@ -433,6 +433,7 @@
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
@@ -626,6 +627,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
@@ -672,6 +674,7 @@
 | [1381-design-a-stack-with-increment-operation](https://github.com/barsha20061001/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/barsha20061001/leetcode/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Queue
 |  |
 | ------- |
@@ -758,6 +761,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
 |  |
