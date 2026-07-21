@@ -22,6 +22,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -119,6 +120,7 @@
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
@@ -464,6 +466,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
+| [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -584,6 +587,7 @@
 | [0316-remove-duplicate-letters](https://github.com/barsha20061001/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
+| [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/barsha20061001/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/barsha20061001/leetcode/tree/master/0649-dota2-senate) |
