@@ -84,6 +84,7 @@
 | [2462-total-cost-to-hire-k-workers](https://github.com/barsha20061001/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/barsha20061001/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/barsha20061001/leetcode/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
@@ -480,6 +481,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/barsha20061001/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Backtracking
 |  |
 | ------- |
@@ -603,6 +605,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/barsha20061001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Memoization
 |  |
 | ------- |
@@ -663,6 +666,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/barsha20061001/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Quickselect
 |  |
