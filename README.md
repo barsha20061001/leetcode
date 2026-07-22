@@ -41,6 +41,7 @@
 | [0724-find-pivot-index](https://github.com/barsha20061001/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/barsha20061001/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/barsha20061001/leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -136,6 +137,7 @@
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
