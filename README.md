@@ -637,6 +637,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/barsha20061001/leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0437-path-sum-iii](https://github.com/barsha20061001/leetcode/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -651,6 +652,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/barsha20061001/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -867,4 +869,12 @@
 |  |
 | ------- |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
