@@ -48,6 +48,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/barsha20061001/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -535,6 +536,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -650,6 +652,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/barsha20061001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Prefix Sum
