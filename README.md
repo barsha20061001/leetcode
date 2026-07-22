@@ -127,6 +127,7 @@
 | [0032-longest-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
@@ -154,6 +155,7 @@
 | [0032-longest-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/barsha20061001/leetcode/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/barsha20061001/leetcode/tree/master/0208-implement-trie-prefix-tree) |
