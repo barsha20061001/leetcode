@@ -276,6 +276,7 @@
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/barsha20061001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -595,6 +596,7 @@
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Trie
@@ -869,6 +871,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/barsha20061001/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/barsha20061001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
 ## Monotonic Queue
 |  |
 | ------- |
