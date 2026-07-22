@@ -102,6 +102,7 @@
 | [2917-find-the-k-or-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -275,6 +276,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/barsha20061001/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -650,6 +652,7 @@
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 ## Memoization
 |  |
 | ------- |
@@ -883,6 +886,7 @@
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/barsha20061001/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/barsha20061001/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
