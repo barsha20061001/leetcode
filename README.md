@@ -38,6 +38,7 @@
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/barsha20061001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/barsha20061001/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/barsha20061001/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/barsha20061001/leetcode/tree/master/0739-daily-temperatures) |
@@ -138,6 +139,7 @@
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/barsha20061001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -624,6 +626,7 @@
 | [0605-can-place-flowers](https://github.com/barsha20061001/leetcode/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/barsha20061001/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/barsha20061001/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/barsha20061001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
