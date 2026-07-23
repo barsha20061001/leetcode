@@ -248,6 +248,7 @@
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/barsha20061001/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
@@ -942,6 +943,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/barsha20061001/leetcode/tree/master/0223-rectangle-area) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 ## Union-Find
 |  |
