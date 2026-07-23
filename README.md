@@ -165,6 +165,7 @@
 | [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/barsha20061001/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/barsha20061001/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/barsha20061001/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
@@ -237,6 +238,7 @@
 | [0012-integer-to-roman](https://github.com/barsha20061001/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/barsha20061001/leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/barsha20061001/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
@@ -394,6 +396,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/barsha20061001/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/barsha20061001/leetcode/tree/master/0735-asteroid-collision) |
