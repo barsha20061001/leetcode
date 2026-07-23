@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/barsha20061001/leetcode/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/barsha20061001/leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/barsha20061001/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/barsha20061001/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/barsha20061001/leetcode/tree/master/0136-single-number) |
@@ -233,6 +234,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/barsha20061001/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
