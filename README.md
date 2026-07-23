@@ -136,6 +136,7 @@
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
@@ -250,6 +251,7 @@
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -712,6 +714,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/barsha20061001/leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0399-evaluate-division](https://github.com/barsha20061001/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
