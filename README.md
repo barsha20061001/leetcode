@@ -137,6 +137,7 @@
 | [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -250,6 +251,7 @@
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -546,6 +548,7 @@
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/barsha20061001/leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/barsha20061001/leetcode/tree/master/0216-combination-sum-iii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
