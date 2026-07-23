@@ -161,6 +161,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/barsha20061001/leetcode/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/barsha20061001/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0032-longest-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
@@ -232,6 +233,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/barsha20061001/leetcode/tree/master/0066-plus-one) |
@@ -472,6 +474,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/barsha20061001/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/barsha20061001/leetcode/tree/master/0208-implement-trie-prefix-tree) |
