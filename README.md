@@ -228,6 +228,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/barsha20061001/leetcode/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/barsha20061001/leetcode/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/barsha20061001/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
@@ -242,6 +243,7 @@
 | [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/barsha20061001/leetcode/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/barsha20061001/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/barsha20061001/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
