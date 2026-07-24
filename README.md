@@ -90,6 +90,7 @@
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/barsha20061001/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -303,6 +304,7 @@
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/barsha20061001/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/barsha20061001/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
@@ -571,6 +573,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/barsha20061001/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 ## Backtracking
@@ -780,6 +783,7 @@
 | [1268-search-suggestions-system](https://github.com/barsha20061001/leetcode/tree/master/1268-search-suggestions-system) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/barsha20061001/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -933,6 +937,7 @@
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/barsha20061001/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/barsha20061001/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
