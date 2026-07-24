@@ -140,6 +140,7 @@
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
@@ -260,6 +261,7 @@
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
