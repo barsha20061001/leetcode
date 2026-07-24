@@ -116,6 +116,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/barsha20061001/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/barsha20061001/leetcode/tree/master/3618-split-array-by-prime-indices) |
@@ -658,6 +659,7 @@
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Enumeration
 |  |
 | ------- |
@@ -846,6 +848,7 @@
 | [0933-number-of-recent-calls](https://github.com/barsha20061001/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -906,6 +909,7 @@
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -917,6 +921,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Ordered Set
 |  |
 | ------- |
@@ -963,6 +968,7 @@
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1002,4 +1008,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/barsha20061001/leetcode/tree/master/0399-evaluate-division) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
