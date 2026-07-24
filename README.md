@@ -123,6 +123,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/barsha20061001/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -428,6 +429,7 @@
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
+| [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -915,6 +917,7 @@
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -927,6 +930,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 ## Ordered Set
 |  |
 | ------- |
