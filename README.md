@@ -332,6 +332,7 @@
 | [3658-gcd-of-odd-and-even-sums](https://github.com/barsha20061001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/barsha20061001/leetcode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/barsha20061001/leetcode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Combinatorics
 |  |
@@ -341,6 +342,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/barsha20061001/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/barsha20061001/leetcode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/barsha20061001/leetcode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
 ## Bit Manipulation
 |  |
@@ -428,6 +430,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/barsha20061001/leetcode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
 | [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
