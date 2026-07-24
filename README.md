@@ -111,6 +111,7 @@
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -170,6 +171,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/barsha20061001/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/barsha20061001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String
 |  |
@@ -415,6 +417,7 @@
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3226-number-of-bit-changes-to-make-two-integers-equal](https://github.com/barsha20061001/leetcode/tree/master/3226-number-of-bit-changes-to-make-two-integers-equal) |
@@ -469,6 +472,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 ## Tree
 |  |
 | ------- |
@@ -847,6 +851,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/barsha20061001/leetcode/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/barsha20061001/leetcode/tree/master/1670-design-front-middle-back-queue) |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Doubly-Linked List
@@ -1011,5 +1016,6 @@
 ## Segment Tree
 |  |
 | ------- |
+| [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
