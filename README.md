@@ -287,6 +287,7 @@
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/barsha20061001/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/barsha20061001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -487,6 +488,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/barsha20061001/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0367-valid-perfect-square](https://github.com/barsha20061001/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/barsha20061001/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
