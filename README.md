@@ -146,6 +146,7 @@
 | [0032-longest-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/barsha20061001/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/barsha20061001/leetcode/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/barsha20061001/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
@@ -269,6 +270,7 @@
 | [0066-plus-one](https://github.com/barsha20061001/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/barsha20061001/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/barsha20061001/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/barsha20061001/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -748,6 +750,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0070-climbing-stairs) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
