@@ -302,6 +302,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1201-ugly-number-iii](https://github.com/barsha20061001/leetcode/tree/master/1201-ugly-number-iii) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
@@ -509,6 +510,7 @@
 | [0872-leaf-similar-trees](https://github.com/barsha20061001/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -530,6 +532,7 @@
 | [0872-leaf-similar-trees](https://github.com/barsha20061001/leetcode/tree/master/0872-leaf-similar-trees) |
 | [0897-increasing-order-search-tree](https://github.com/barsha20061001/leetcode/tree/master/0897-increasing-order-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1367-linked-list-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1367-linked-list-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
