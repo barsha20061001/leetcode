@@ -276,6 +276,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/barsha20061001/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/barsha20061001/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/barsha20061001/leetcode/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/barsha20061001/leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/barsha20061001/leetcode/tree/master/0231-power-of-two) |
@@ -551,6 +552,7 @@
 | [0013-roman-to-integer](https://github.com/barsha20061001/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/barsha20061001/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0202-happy-number](https://github.com/barsha20061001/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/barsha20061001/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
@@ -637,6 +639,7 @@
 | [0143-reorder-list](https://github.com/barsha20061001/leetcode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/barsha20061001/leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/barsha20061001/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/barsha20061001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
