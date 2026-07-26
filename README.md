@@ -227,6 +227,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/barsha20061001/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/barsha20061001/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1154-day-of-the-year](https://github.com/barsha20061001/leetcode/tree/master/1154-day-of-the-year) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/barsha20061001/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
@@ -326,6 +327,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/barsha20061001/leetcode/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/barsha20061001/leetcode/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/barsha20061001/leetcode/tree/master/1201-ugly-number-iii) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
