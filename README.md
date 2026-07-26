@@ -55,6 +55,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
+| [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
@@ -313,6 +314,7 @@
 | [0788-rotated-digits](https://github.com/barsha20061001/leetcode/tree/master/0788-rotated-digits) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
+| [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
