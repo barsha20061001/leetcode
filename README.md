@@ -216,6 +216,7 @@
 | [0415-add-strings](https://github.com/barsha20061001/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/barsha20061001/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/barsha20061001/leetcode/tree/master/0443-string-compression) |
+| [0504-base-7](https://github.com/barsha20061001/leetcode/tree/master/0504-base-7) |
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/barsha20061001/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
@@ -313,6 +314,7 @@
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/barsha20061001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
+| [0504-base-7](https://github.com/barsha20061001/leetcode/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
