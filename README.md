@@ -321,6 +321,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
@@ -584,6 +585,7 @@
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
