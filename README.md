@@ -349,6 +349,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/barsha20061001/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/barsha20061001/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/barsha20061001/leetcode/tree/master/2413-smallest-even-multiple) |
@@ -492,6 +493,7 @@
 | [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/barsha20061001/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/barsha20061001/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/barsha20061001/leetcode/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/barsha20061001/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
