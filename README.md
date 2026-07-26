@@ -38,6 +38,7 @@
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/barsha20061001/leetcode/tree/master/0605-can-place-flowers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0641-design-circular-deque](https://github.com/barsha20061001/leetcode/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/barsha20061001/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -299,6 +300,7 @@
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
+| [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/barsha20061001/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
@@ -603,6 +605,7 @@
 | [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/barsha20061001/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [1268-search-suggestions-system](https://github.com/barsha20061001/leetcode/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
