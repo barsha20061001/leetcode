@@ -208,6 +208,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/barsha20061001/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/barsha20061001/leetcode/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/barsha20061001/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
 | [0649-dota2-senate](https://github.com/barsha20061001/leetcode/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/barsha20061001/leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -300,6 +301,7 @@
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/barsha20061001/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/barsha20061001/leetcode/tree/master/0670-maximum-swap) |
@@ -650,6 +652,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/barsha20061001/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/barsha20061001/leetcode/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/barsha20061001/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/barsha20061001/leetcode/tree/master/0844-backspace-string-compare) |
