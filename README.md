@@ -322,6 +322,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1175-prime-arrangements](https://github.com/barsha20061001/leetcode/tree/master/1175-prime-arrangements) |
 | [1201-ugly-number-iii](https://github.com/barsha20061001/leetcode/tree/master/1201-ugly-number-iii) |
 | [1238-circular-permutation-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/1238-circular-permutation-in-binary-representation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/barsha20061001/leetcode/tree/master/1250-check-if-it-is-a-good-array) |
