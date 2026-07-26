@@ -340,6 +340,7 @@
 | [1447-simplified-fractions](https://github.com/barsha20061001/leetcode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/barsha20061001/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/barsha20061001/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
