@@ -57,6 +57,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -349,6 +350,7 @@
 | [0836-rectangle-overlap](https://github.com/barsha20061001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
+| [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
@@ -729,6 +731,7 @@
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
+| [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/barsha20061001/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -1114,6 +1117,7 @@
 | [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/barsha20061001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
+| [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 ## Union-Find
 |  |
 | ------- |
