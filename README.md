@@ -339,6 +339,7 @@
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/barsha20061001/leetcode/tree/master/0670-maximum-swap) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
+| [0728-self-dividing-numbers](https://github.com/barsha20061001/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/barsha20061001/leetcode/tree/master/0738-monotone-increasing-digits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
