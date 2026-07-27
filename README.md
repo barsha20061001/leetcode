@@ -52,6 +52,7 @@
 | [0735-asteroid-collision](https://github.com/barsha20061001/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/barsha20061001/leetcode/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -344,6 +345,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/barsha20061001/leetcode/tree/master/0788-rotated-digits) |
+| [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
 | [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
@@ -1108,6 +1110,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/barsha20061001/leetcode/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 ## Union-Find
 |  |
