@@ -332,6 +332,7 @@
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/barsha20061001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
+| [0492-construct-the-rectangle](https://github.com/barsha20061001/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/barsha20061001/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/barsha20061001/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/barsha20061001/leetcode/tree/master/0509-fibonacci-number) |
