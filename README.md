@@ -322,6 +322,7 @@
 | [0412-fizz-buzz](https://github.com/barsha20061001/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/barsha20061001/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/barsha20061001/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/barsha20061001/leetcode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/barsha20061001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
@@ -541,6 +542,7 @@
 | [0367-valid-perfect-square](https://github.com/barsha20061001/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/barsha20061001/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
+| [0441-arranging-coins](https://github.com/barsha20061001/leetcode/tree/master/0441-arranging-coins) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
