@@ -217,6 +217,7 @@
 | [0394-decode-string](https://github.com/barsha20061001/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/barsha20061001/leetcode/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/barsha20061001/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/barsha20061001/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/barsha20061001/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/barsha20061001/leetcode/tree/master/0443-string-compression) |
@@ -318,6 +319,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/barsha20061001/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/barsha20061001/leetcode/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/barsha20061001/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/barsha20061001/leetcode/tree/master/0445-add-two-numbers-ii) |
@@ -505,6 +507,7 @@
 | [0043-multiply-strings](https://github.com/barsha20061001/leetcode/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/barsha20061001/leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/barsha20061001/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/barsha20061001/leetcode/tree/master/0415-add-strings) |
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
 | [0735-asteroid-collision](https://github.com/barsha20061001/leetcode/tree/master/0735-asteroid-collision) |
