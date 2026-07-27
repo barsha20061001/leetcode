@@ -66,6 +66,7 @@
 | [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/barsha20061001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -357,6 +358,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/barsha20061001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
