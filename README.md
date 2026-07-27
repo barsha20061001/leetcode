@@ -327,6 +327,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/barsha20061001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0504-base-7](https://github.com/barsha20061001/leetcode/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/barsha20061001/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/barsha20061001/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
