@@ -38,6 +38,7 @@
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0598-range-addition-ii](https://github.com/barsha20061001/leetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/barsha20061001/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
@@ -333,6 +334,7 @@
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/barsha20061001/leetcode/tree/master/0556-next-greater-element-iii) |
+| [0598-range-addition-ii](https://github.com/barsha20061001/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0640-solve-the-equation](https://github.com/barsha20061001/leetcode/tree/master/0640-solve-the-equation) |
 | [0670-maximum-swap](https://github.com/barsha20061001/leetcode/tree/master/0670-maximum-swap) |
