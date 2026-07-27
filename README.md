@@ -346,6 +346,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/barsha20061001/leetcode/tree/master/0788-rotated-digits) |
 | [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/barsha20061001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
 | [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
@@ -1111,6 +1112,7 @@
 | ------- |
 | [0223-rectangle-area](https://github.com/barsha20061001/leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/barsha20061001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 ## Union-Find
 |  |
