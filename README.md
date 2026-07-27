@@ -307,6 +307,7 @@
 | [0264-ugly-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/barsha20061001/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
@@ -775,6 +776,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Rolling Hash
@@ -1123,6 +1125,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
