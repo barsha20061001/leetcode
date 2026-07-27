@@ -72,6 +72,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/barsha20061001/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/barsha20061001/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
+| [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1177-can-make-palindrome-from-substring](https://github.com/barsha20061001/leetcode/tree/master/1177-can-make-palindrome-from-substring) |
 | [1207-unique-number-of-occurrences](https://github.com/barsha20061001/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/barsha20061001/leetcode/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -361,6 +362,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/barsha20061001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/barsha20061001/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -674,6 +676,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
+| [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1268-search-suggestions-system](https://github.com/barsha20061001/leetcode/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -738,6 +741,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
+| [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/barsha20061001/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
@@ -1124,6 +1128,7 @@
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 ## Union-Find
 |  |
 | ------- |
