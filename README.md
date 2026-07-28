@@ -404,6 +404,7 @@
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/barsha20061001/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/barsha20061001/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2544-alternating-digit-sum](https://github.com/barsha20061001/leetcode/tree/master/2544-alternating-digit-sum) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
 | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/barsha20061001/leetcode/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
