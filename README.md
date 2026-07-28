@@ -401,6 +401,7 @@
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/barsha20061001/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/barsha20061001/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/barsha20061001/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/barsha20061001/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -1143,6 +1144,7 @@
 | [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/barsha20061001/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Union-Find
 |  |
 | ------- |
