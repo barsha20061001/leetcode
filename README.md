@@ -110,6 +110,7 @@
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/barsha20061001/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/barsha20061001/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/barsha20061001/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/barsha20061001/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/barsha20061001/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -396,6 +397,7 @@
 | [2413-smallest-even-multiple](https://github.com/barsha20061001/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/barsha20061001/leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/barsha20061001/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/barsha20061001/leetcode/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
