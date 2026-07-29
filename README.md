@@ -26,6 +26,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/barsha20061001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/barsha20061001/leetcode/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/barsha20061001/leetcode/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/barsha20061001/leetcode/tree/master/0399-evaluate-division) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -173,6 +174,7 @@
 | [0368-largest-divisible-subset](https://github.com/barsha20061001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/barsha20061001/leetcode/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
@@ -329,6 +331,7 @@
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/barsha20061001/leetcode/tree/master/0384-shuffle-an-array) |
+| [0396-rotate-function](https://github.com/barsha20061001/leetcode/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/barsha20061001/leetcode/tree/master/0412-fizz-buzz) |
