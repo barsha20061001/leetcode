@@ -332,6 +332,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0384-shuffle-an-array](https://github.com/barsha20061001/leetcode/tree/master/0384-shuffle-an-array) |
 | [0396-rotate-function](https://github.com/barsha20061001/leetcode/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/barsha20061001/leetcode/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/barsha20061001/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/barsha20061001/leetcode/tree/master/0412-fizz-buzz) |
@@ -652,6 +653,7 @@
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
+| [0398-random-pick-index](https://github.com/barsha20061001/leetcode/tree/master/0398-random-pick-index) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/barsha20061001/leetcode/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
@@ -1205,4 +1207,9 @@
 |  |
 | ------- |
 | [0384-shuffle-an-array](https://github.com/barsha20061001/leetcode/tree/master/0384-shuffle-an-array) |
+| [0398-random-pick-index](https://github.com/barsha20061001/leetcode/tree/master/0398-random-pick-index) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/barsha20061001/leetcode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
