@@ -362,6 +362,7 @@
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
 | [0728-self-dividing-numbers](https://github.com/barsha20061001/leetcode/tree/master/0728-self-dividing-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/barsha20061001/leetcode/tree/master/0738-monotone-increasing-digits) |
+| [0754-reach-a-number](https://github.com/barsha20061001/leetcode/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/barsha20061001/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0788-rotated-digits](https://github.com/barsha20061001/leetcode/tree/master/0788-rotated-digits) |
@@ -589,6 +590,7 @@
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/barsha20061001/leetcode/tree/master/0441-arranging-coins) |
 | [0633-sum-of-square-numbers](https://github.com/barsha20061001/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0754-reach-a-number](https://github.com/barsha20061001/leetcode/tree/master/0754-reach-a-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
