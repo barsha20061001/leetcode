@@ -322,6 +322,7 @@
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0365-water-and-jug-problem](https://github.com/barsha20061001/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/barsha20061001/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/barsha20061001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/barsha20061001/leetcode/tree/master/0371-sum-of-two-integers) |
@@ -889,6 +890,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/barsha20061001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/barsha20061001/leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [0365-water-and-jug-problem](https://github.com/barsha20061001/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/barsha20061001/leetcode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/barsha20061001/leetcode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
@@ -909,6 +911,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/barsha20061001/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
+| [0365-water-and-jug-problem](https://github.com/barsha20061001/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/barsha20061001/leetcode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
 | [0672-bulb-switcher-ii](https://github.com/barsha20061001/leetcode/tree/master/0672-bulb-switcher-ii) |
