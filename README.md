@@ -352,6 +352,7 @@
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
 | [0556-next-greater-element-iii](https://github.com/barsha20061001/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0592-fraction-addition-and-subtraction](https://github.com/barsha20061001/leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/barsha20061001/leetcode/tree/master/0593-valid-square) |
 | [0598-range-addition-ii](https://github.com/barsha20061001/leetcode/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/barsha20061001/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/barsha20061001/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -1167,6 +1168,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/barsha20061001/leetcode/tree/master/0223-rectangle-area) |
+| [0593-valid-square](https://github.com/barsha20061001/leetcode/tree/master/0593-valid-square) |
 | [0812-largest-triangle-area](https://github.com/barsha20061001/leetcode/tree/master/0812-largest-triangle-area) |
 | [0836-rectangle-overlap](https://github.com/barsha20061001/leetcode/tree/master/0836-rectangle-overlap) |
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
