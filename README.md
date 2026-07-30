@@ -273,6 +273,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/barsha20061001/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barsha20061001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/barsha20061001/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barsha20061001/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -431,6 +432,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/barsha20061001/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barsha20061001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/barsha20061001/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -880,6 +882,7 @@
 | [2578-split-with-minimum-sum](https://github.com/barsha20061001/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barsha20061001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Memoization
 |  |
 | ------- |
