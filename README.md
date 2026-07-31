@@ -276,6 +276,7 @@
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/barsha20061001/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barsha20061001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3174-clear-digits](https://github.com/barsha20061001/leetcode/tree/master/3174-clear-digits) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/barsha20061001/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barsha20061001/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -697,6 +698,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/barsha20061001/leetcode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -729,6 +731,7 @@
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/barsha20061001/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2542-maximum-subsequence-score](https://github.com/barsha20061001/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [2578-split-with-minimum-sum](https://github.com/barsha20061001/leetcode/tree/master/2578-split-with-minimum-sum) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barsha20061001/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/barsha20061001/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -806,6 +809,7 @@
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2506-count-pairs-of-similar-strings](https://github.com/barsha20061001/leetcode/tree/master/2506-count-pairs-of-similar-strings) |
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Sliding Window
 |  |
@@ -887,6 +891,7 @@
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/barsha20061001/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Memoization
 |  |
 | ------- |
