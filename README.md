@@ -34,6 +34,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/barsha20061001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
+| [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
@@ -179,6 +180,7 @@
 | [0397-integer-replacement](https://github.com/barsha20061001/leetcode/tree/master/0397-integer-replacement) |
 | [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/barsha20061001/leetcode/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
@@ -293,6 +295,7 @@
 | [0326-power-of-three](https://github.com/barsha20061001/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/barsha20061001/leetcode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/barsha20061001/leetcode/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/barsha20061001/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -348,6 +351,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/barsha20061001/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/barsha20061001/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/barsha20061001/leetcode/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/barsha20061001/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/barsha20061001/leetcode/tree/master/0507-perfect-number) |
@@ -1219,6 +1223,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
