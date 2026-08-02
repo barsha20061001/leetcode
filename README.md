@@ -60,6 +60,7 @@
 | [0832-flipping-an-image](https://github.com/barsha20061001/leetcode/tree/master/0832-flipping-an-image) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/barsha20061001/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
@@ -191,6 +192,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/barsha20061001/leetcode/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/barsha20061001/leetcode/tree/master/0790-domino-and-tromino-tiling) |
+| [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
@@ -379,6 +381,7 @@
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0866-prime-palindrome](https://github.com/barsha20061001/leetcode/tree/master/0866-prime-palindrome) |
 | [0869-reordered-power-of-2](https://github.com/barsha20061001/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/barsha20061001/leetcode/tree/master/0908-smallest-range-i) |
@@ -1224,6 +1227,7 @@
 | [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/barsha20061001/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 ## Counting Sort
 |  |
