@@ -86,6 +86,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/barsha20061001/leetcode/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/barsha20061001/leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/barsha20061001/leetcode/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/barsha20061001/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/barsha20061001/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -199,6 +200,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/barsha20061001/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/barsha20061001/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/barsha20061001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
@@ -407,6 +409,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/barsha20061001/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1399-count-largest-group](https://github.com/barsha20061001/leetcode/tree/master/1399-count-largest-group) |
+| [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1447-simplified-fractions](https://github.com/barsha20061001/leetcode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/barsha20061001/leetcode/tree/master/1492-the-kth-factor-of-n) |
@@ -1229,6 +1232,7 @@
 | [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
+| [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1247,4 +1251,12 @@
 |  |
 | ------- |
 | [0478-generate-random-point-in-a-circle](https://github.com/barsha20061001/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
