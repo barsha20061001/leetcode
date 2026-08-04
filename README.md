@@ -145,6 +145,7 @@
 | [3618-split-array-by-prime-indices](https://github.com/barsha20061001/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
 | [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 ## Divide and Conquer
 |  |
@@ -714,6 +715,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -745,6 +747,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barsha20061001/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/barsha20061001/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
