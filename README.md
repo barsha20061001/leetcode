@@ -419,6 +419,7 @@
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/barsha20061001/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/barsha20061001/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/barsha20061001/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/barsha20061001/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -615,6 +616,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1201-ugly-number-iii](https://github.com/barsha20061001/leetcode/tree/master/1201-ugly-number-iii) |
 | [1268-search-suggestions-system](https://github.com/barsha20061001/leetcode/tree/master/1268-search-suggestions-system) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/barsha20061001/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/barsha20061001/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2513-minimize-the-maximum-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2513-minimize-the-maximum-of-two-arrays) |
 | [2601-prime-subtraction-operation](https://github.com/barsha20061001/leetcode/tree/master/2601-prime-subtraction-operation) |
@@ -901,6 +903,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/barsha20061001/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/barsha20061001/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1903-largest-odd-number-in-string](https://github.com/barsha20061001/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/barsha20061001/leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
