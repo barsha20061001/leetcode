@@ -952,6 +952,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/barsha20061001/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3310-remove-methods-from-project](https://github.com/barsha20061001/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -968,6 +969,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/barsha20061001/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/barsha20061001/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3310-remove-methods-from-project](https://github.com/barsha20061001/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1226,6 +1228,7 @@
 | [0547-number-of-provinces](https://github.com/barsha20061001/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/barsha20061001/leetcode/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/barsha20061001/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [3310-remove-methods-from-project](https://github.com/barsha20061001/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Shortest Path
 |  |
 | ------- |
