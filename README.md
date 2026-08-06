@@ -40,6 +40,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
+| [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -372,6 +373,7 @@
 | [0507-perfect-number](https://github.com/barsha20061001/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/barsha20061001/leetcode/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/barsha20061001/leetcode/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
@@ -623,6 +625,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/barsha20061001/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/barsha20061001/leetcode/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/barsha20061001/leetcode/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0633-sum-of-square-numbers](https://github.com/barsha20061001/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0754-reach-a-number](https://github.com/barsha20061001/leetcode/tree/master/0754-reach-a-number) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -994,6 +997,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/barsha20061001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0724-find-pivot-index](https://github.com/barsha20061001/leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -1276,6 +1280,7 @@
 | [0384-shuffle-an-array](https://github.com/barsha20061001/leetcode/tree/master/0384-shuffle-an-array) |
 | [0398-random-pick-index](https://github.com/barsha20061001/leetcode/tree/master/0398-random-pick-index) |
 | [0478-generate-random-point-in-a-circle](https://github.com/barsha20061001/leetcode/tree/master/0478-generate-random-point-in-a-circle) |
+| [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
 ## Reservoir Sampling
 |  |
 | ------- |
