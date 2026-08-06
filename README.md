@@ -342,6 +342,7 @@
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
 | [0313-super-ugly-number](https://github.com/barsha20061001/leetcode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/barsha20061001/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/barsha20061001/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
@@ -890,6 +891,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/barsha20061001/leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Rolling Hash
