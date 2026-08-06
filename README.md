@@ -22,6 +22,7 @@
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/barsha20061001/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0313-super-ugly-number](https://github.com/barsha20061001/leetcode/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/barsha20061001/leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0334-increasing-triplet-subsequence](https://github.com/barsha20061001/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/barsha20061001/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -177,6 +178,7 @@
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/barsha20061001/leetcode/tree/master/0313-super-ugly-number) |
 | [0338-counting-bits](https://github.com/barsha20061001/leetcode/tree/master/0338-counting-bits) |
 | [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
 | [0357-count-numbers-with-unique-digits](https://github.com/barsha20061001/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -339,6 +341,7 @@
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/barsha20061001/leetcode/tree/master/0292-nim-game) |
+| [0313-super-ugly-number](https://github.com/barsha20061001/leetcode/tree/master/0313-super-ugly-number) |
 | [0326-power-of-three](https://github.com/barsha20061001/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/barsha20061001/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/barsha20061001/leetcode/tree/master/0343-integer-break) |
