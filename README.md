@@ -392,6 +392,7 @@
 | [0910-smallest-range-ii](https://github.com/barsha20061001/leetcode/tree/master/0910-smallest-range-ii) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0970-powerful-integers](https://github.com/barsha20061001/leetcode/tree/master/0970-powerful-integers) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/barsha20061001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -693,6 +694,7 @@
 | [0869-reordered-power-of-2](https://github.com/barsha20061001/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0970-powerful-integers](https://github.com/barsha20061001/leetcode/tree/master/0970-powerful-integers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/barsha20061001/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
@@ -855,6 +857,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0869-reordered-power-of-2](https://github.com/barsha20061001/leetcode/tree/master/0869-reordered-power-of-2) |
+| [0970-powerful-integers](https://github.com/barsha20061001/leetcode/tree/master/0970-powerful-integers) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/barsha20061001/leetcode/tree/master/2427-number-of-common-factors) |
