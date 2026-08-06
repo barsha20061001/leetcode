@@ -74,6 +74,7 @@
 | [0932-beautiful-array](https://github.com/barsha20061001/leetcode/tree/master/0932-beautiful-array) |
 | [0946-validate-stack-sequences](https://github.com/barsha20061001/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/barsha20061001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [0994-rotting-oranges](https://github.com/barsha20061001/leetcode/tree/master/0994-rotting-oranges) |
@@ -163,6 +164,7 @@
 | [0654-maximum-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/barsha20061001/leetcode/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1763-longest-nice-substring](https://github.com/barsha20061001/leetcode/tree/master/1763-longest-nice-substring) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/barsha20061001/leetcode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
@@ -406,6 +408,7 @@
 | [0932-beautiful-array](https://github.com/barsha20061001/leetcode/tree/master/0932-beautiful-array) |
 | [0957-prison-cells-after-n-days](https://github.com/barsha20061001/leetcode/tree/master/0957-prison-cells-after-n-days) |
 | [0970-powerful-integers](https://github.com/barsha20061001/leetcode/tree/master/0970-powerful-integers) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/barsha20061001/leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/barsha20061001/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -755,6 +758,7 @@
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0869-reordered-power-of-2](https://github.com/barsha20061001/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0910-smallest-range-ii](https://github.com/barsha20061001/leetcode/tree/master/0910-smallest-range-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/barsha20061001/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [1268-search-suggestions-system](https://github.com/barsha20061001/leetcode/tree/master/1268-search-suggestions-system) |
@@ -1013,6 +1017,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0264-ugly-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1268-search-suggestions-system](https://github.com/barsha20061001/leetcode/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -1025,6 +1030,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 ## Linked List
 |  |
@@ -1236,6 +1242,7 @@
 | [0858-mirror-reflection](https://github.com/barsha20061001/leetcode/tree/master/0858-mirror-reflection) |
 | [0883-projection-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/barsha20061001/leetcode/tree/master/0892-surface-area-of-3d-shapes) |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/barsha20061001/leetcode/tree/master/1030-matrix-cells-in-distance-order) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/barsha20061001/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Union-Find
@@ -1297,4 +1304,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
