@@ -46,6 +46,7 @@
 | [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/barsha20061001/leetcode/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
+| [0560-subarray-sum-equals-k](https://github.com/barsha20061001/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/barsha20061001/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0598-range-addition-ii](https://github.com/barsha20061001/leetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/barsha20061001/leetcode/tree/master/0605-can-place-flowers) |
@@ -715,6 +716,7 @@
 | [0457-circular-array-loop](https://github.com/barsha20061001/leetcode/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/barsha20061001/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/barsha20061001/leetcode/tree/master/0645-set-mismatch) |
 | [0817-linked-list-components](https://github.com/barsha20061001/leetcode/tree/master/0817-linked-list-components) |
 | [0869-reordered-power-of-2](https://github.com/barsha20061001/leetcode/tree/master/0869-reordered-power-of-2) |
@@ -1017,6 +1019,7 @@
 | [0238-product-of-array-except-self](https://github.com/barsha20061001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
+| [0560-subarray-sum-equals-k](https://github.com/barsha20061001/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/barsha20061001/leetcode/tree/master/0724-find-pivot-index) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/barsha20061001/leetcode/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/barsha20061001/leetcode/tree/master/1004-max-consecutive-ones-iii) |
