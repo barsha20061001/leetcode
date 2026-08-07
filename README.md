@@ -18,6 +18,7 @@
 | [0204-count-primes](https://github.com/barsha20061001/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/barsha20061001/leetcode/tree/master/0216-combination-sum-iii) |
+| [0229-majority-element-ii](https://github.com/barsha20061001/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/barsha20061001/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/barsha20061001/leetcode/tree/master/0283-move-zeroes) |
@@ -699,6 +700,7 @@
 | [0187-repeated-dna-sequences](https://github.com/barsha20061001/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/barsha20061001/leetcode/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/barsha20061001/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0229-majority-element-ii](https://github.com/barsha20061001/leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -748,6 +750,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/barsha20061001/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/barsha20061001/leetcode/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/barsha20061001/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0389-find-the-difference](https://github.com/barsha20061001/leetcode/tree/master/0389-find-the-difference) |
@@ -843,6 +846,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/barsha20061001/leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0869-reordered-power-of-2](https://github.com/barsha20061001/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/barsha20061001/leetcode/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -1313,4 +1317,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/barsha20061001/leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/barsha20061001/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
