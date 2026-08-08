@@ -41,6 +41,7 @@
 | [0477-total-hamming-distance](https://github.com/barsha20061001/leetcode/tree/master/0477-total-hamming-distance) |
 | [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/barsha20061001/leetcode/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/barsha20061001/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/barsha20061001/leetcode/tree/master/0528-random-pick-with-weight) |
@@ -197,6 +198,7 @@
 | [0435-non-overlapping-intervals](https://github.com/barsha20061001/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/barsha20061001/leetcode/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/barsha20061001/leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/barsha20061001/leetcode/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0553-optimal-division](https://github.com/barsha20061001/leetcode/tree/master/0553-optimal-division) |
@@ -802,6 +804,7 @@
 | [0401-binary-watch](https://github.com/barsha20061001/leetcode/tree/master/0401-binary-watch) |
 | [0473-matchsticks-to-square](https://github.com/barsha20061001/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0491-non-decreasing-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [0494-target-sum](https://github.com/barsha20061001/leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/barsha20061001/leetcode/tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/barsha20061001/leetcode/tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/barsha20061001/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1339,4 +1342,12 @@
 |  |
 | ------- |
 | [0457-circular-array-loop](https://github.com/barsha20061001/leetcode/tree/master/0457-circular-array-loop) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/barsha20061001/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/barsha20061001/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
