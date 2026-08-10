@@ -221,6 +221,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/barsha20061001/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/barsha20061001/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/barsha20061001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -446,6 +447,7 @@
 | [1447-simplified-fractions](https://github.com/barsha20061001/leetcode/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/barsha20061001/leetcode/tree/master/1492-the-kth-factor-of-n) |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/barsha20061001/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/barsha20061001/leetcode/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
@@ -1315,6 +1317,7 @@
 | [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1338,10 +1341,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 ## K-D Tree
 |  |
 | ------- |
@@ -1362,4 +1367,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/barsha20061001/leetcode/tree/master/0494-target-sum) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
