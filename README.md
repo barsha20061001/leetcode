@@ -144,6 +144,7 @@
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-find-the-k-or-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2917-find-the-k-or-of-an-array) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barsha20061001/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/barsha20061001/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/barsha20061001/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3012-minimize-length-of-array-using-operations](https://github.com/barsha20061001/leetcode/tree/master/3012-minimize-length-of-array-using-operations) |
@@ -758,6 +759,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/barsha20061001/leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barsha20061001/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/barsha20061001/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -904,6 +906,7 @@
 | [2269-find-the-k-beauty-of-a-number](https://github.com/barsha20061001/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2401-longest-nice-subarray](https://github.com/barsha20061001/leetcode/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/barsha20061001/leetcode/tree/master/2932-maximum-strong-pair-xor-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/barsha20061001/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/barsha20061001/leetcode/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
