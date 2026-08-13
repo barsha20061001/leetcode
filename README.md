@@ -120,6 +120,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
 | [2206-divide-array-into-equal-pairs](https://github.com/barsha20061001/leetcode/tree/master/2206-divide-array-into-equal-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/barsha20061001/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/barsha20061001/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -302,6 +303,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/barsha20061001/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/barsha20061001/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/barsha20061001/leetcode/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/barsha20061001/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/barsha20061001/leetcode/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/barsha20061001/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/barsha20061001/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -1214,6 +1216,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/barsha20061001/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2336-smallest-number-in-infinite-set](https://github.com/barsha20061001/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Number Theory
@@ -1314,6 +1317,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/barsha20061001/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Game Theory
