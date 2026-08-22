@@ -503,6 +503,7 @@
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/barsha20061001/leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/barsha20061001/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/barsha20061001/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
