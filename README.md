@@ -117,6 +117,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/barsha20061001/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/barsha20061001/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2032-two-out-of-three](https://github.com/barsha20061001/leetcode/tree/master/2032-two-out-of-three) |
@@ -231,6 +232,7 @@
 | [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/barsha20061001/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1799-maximize-score-after-n-operations](https://github.com/barsha20061001/leetcode/tree/master/1799-maximize-score-after-n-operations) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/barsha20061001/leetcode/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3117-minimum-sum-of-values-by-dividing-array](https://github.com/barsha20061001/leetcode/tree/master/3117-minimum-sum-of-values-by-dividing-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barsha20061001/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -464,6 +466,7 @@
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/barsha20061001/leetcode/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/barsha20061001/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/barsha20061001/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/barsha20061001/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/barsha20061001/leetcode/tree/master/1927-sum-game) |
 | [1952-three-divisors](https://github.com/barsha20061001/leetcode/tree/master/1952-three-divisors) |
@@ -1075,6 +1078,7 @@
 | [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/barsha20061001/leetcode/tree/master/1371-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1732-find-the-highest-altitude](https://github.com/barsha20061001/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Heap (Priority Queue)
 |  |
@@ -1349,6 +1353,7 @@
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/barsha20061001/leetcode/tree/master/1927-sum-game) |
 ## Counting Sort
 |  |
@@ -1374,11 +1379,13 @@
 | ------- |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/barsha20061001/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/barsha20061001/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 ## K-D Tree
 |  |
 | ------- |
