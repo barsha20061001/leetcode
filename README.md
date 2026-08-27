@@ -324,6 +324,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/barsha20061001/leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/barsha20061001/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/barsha20061001/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Recursion
 |  |
@@ -788,6 +789,7 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/barsha20061001/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -911,6 +913,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/barsha20061001/leetcode/tree/master/2748-number-of-beautiful-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/barsha20061001/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -945,6 +948,7 @@
 | [2761-prime-pairs-with-target-sum](https://github.com/barsha20061001/leetcode/tree/master/2761-prime-pairs-with-target-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/barsha20061001/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/barsha20061001/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/barsha20061001/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
 | [3827-count-monobit-integers](https://github.com/barsha20061001/leetcode/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/barsha20061001/leetcode/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
@@ -1005,6 +1009,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/barsha20061001/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/barsha20061001/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/barsha20061001/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/barsha20061001/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Memoization
 |  |
 | ------- |
