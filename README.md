@@ -164,6 +164,7 @@
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/barsha20061001/leetcode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/barsha20061001/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/barsha20061001/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/barsha20061001/leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -614,6 +615,7 @@
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/barsha20061001/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/barsha20061001/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/barsha20061001/leetcode/tree/master/3370-smallest-number-with-all-set-bits) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/barsha20061001/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/barsha20061001/leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -790,6 +792,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/barsha20061001/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/barsha20061001/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/barsha20061001/leetcode/tree/master/3556-sum-of-largest-prime-substrings) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/barsha20061001/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/barsha20061001/leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/barsha20061001/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
@@ -899,6 +902,7 @@
 | [2326-spiral-matrix-iv](https://github.com/barsha20061001/leetcode/tree/master/2326-spiral-matrix-iv) |
 | [2352-equal-row-and-column-pairs](https://github.com/barsha20061001/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2614-prime-in-diagonal](https://github.com/barsha20061001/leetcode/tree/master/2614-prime-in-diagonal) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/barsha20061001/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Counting
 |  |
 | ------- |
@@ -1072,6 +1076,7 @@
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/barsha20061001/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/barsha20061001/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3310-remove-methods-from-project](https://github.com/barsha20061001/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/barsha20061001/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
 | ------- |
