@@ -170,6 +170,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/barsha20061001/leetcode/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/barsha20061001/leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/barsha20061001/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
 ## Divide and Conquer
 |  |
@@ -518,6 +519,7 @@
 | [3765-complete-prime-number](https://github.com/barsha20061001/leetcode/tree/master/3765-complete-prime-number) |
 | [3821-find-nth-smallest-integer-with-k-one-bits](https://github.com/barsha20061001/leetcode/tree/master/3821-find-nth-smallest-integer-with-k-one-bits) |
 | [3855-sum-of-k-digit-numbers-in-a-range](https://github.com/barsha20061001/leetcode/tree/master/3855-sum-of-k-digit-numbers-in-a-range) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/barsha20061001/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
