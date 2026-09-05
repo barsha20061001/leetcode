@@ -172,6 +172,7 @@
 | [3731-find-missing-elements](https://github.com/barsha20061001/leetcode/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/barsha20061001/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3878-count-good-subarrays](https://github.com/barsha20061001/leetcode/tree/master/3878-count-good-subarrays) |
+| [3904-smallest-stable-index-ii](https://github.com/barsha20061001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1097,6 +1098,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/barsha20061001/leetcode/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1872-stone-game-viii](https://github.com/barsha20061001/leetcode/tree/master/1872-stone-game-viii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/barsha20061001/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3904-smallest-stable-index-ii](https://github.com/barsha20061001/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
