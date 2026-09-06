@@ -198,6 +198,7 @@
 | [0070-climbing-stairs](https://github.com/barsha20061001/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/barsha20061001/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/barsha20061001/leetcode/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/barsha20061001/leetcode/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/barsha20061001/leetcode/tree/master/0279-perfect-squares) |
@@ -253,6 +254,7 @@
 | [0067-add-binary](https://github.com/barsha20061001/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/barsha20061001/leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/barsha20061001/leetcode/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/barsha20061001/leetcode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/barsha20061001/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/barsha20061001/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/barsha20061001/leetcode/tree/master/0171-excel-sheet-column-number) |
