@@ -228,6 +228,7 @@
 | [0877-stone-game](https://github.com/barsha20061001/leetcode/tree/master/0877-stone-game) |
 | [0898-bitwise-ors-of-subarrays](https://github.com/barsha20061001/leetcode/tree/master/0898-bitwise-ors-of-subarrays) |
 | [0918-maximum-sum-circular-subarray](https://github.com/barsha20061001/leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/barsha20061001/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/barsha20061001/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/barsha20061001/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/barsha20061001/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -289,6 +290,7 @@
 | [0856-score-of-parentheses](https://github.com/barsha20061001/leetcode/tree/master/0856-score-of-parentheses) |
 | [0880-decoded-string-at-index](https://github.com/barsha20061001/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barsha20061001/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/barsha20061001/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/barsha20061001/leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1021-remove-outermost-parentheses](https://github.com/barsha20061001/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/barsha20061001/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
